@@ -1,0 +1,6 @@
+CREATE VIEW LargeCity2 AS SELECT * FROM city 
+	WHERE population > 7000000 WITH CHECK OPTION ; 
+
+SELECT * FROM LargeCity2;
+
+SHOW TABLES; 
