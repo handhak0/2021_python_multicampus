@@ -44,3 +44,10 @@
 - Oracle Cloud 
 - Linux 
 - MySQL 
+
+
+
+## 05. NLP
+
+- Text Preprocessing 
+- Language Model 
